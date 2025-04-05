@@ -44,6 +44,7 @@ Open a terminal in the frontend folder:
 
 cd frontend
 npm install       # Install dependencies
+
 npm run dev       # Start the development server
 
 
