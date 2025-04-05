@@ -8,7 +8,7 @@ Initially built as a standalone web app, the project is also being developed int
 - ✉️ Generate contextual replies for incoming emails
 - ⚙️ React frontend with dynamic UI
 - ☕ Spring Boot backend handling AI logic and routing
-- 🔗 Chrome Extension version for native Gmail experience *(in progress)*
+- 🔗 Chrome Extension version for native Gmail experience
 
 ---
 
