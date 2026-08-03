@@ -3,7 +3,7 @@ An AI-powered email reply assistant built with **Spring Boot** and **React**, de
 Initially built as a standalone web app, the project is also being developed into a Chrome Extension for seamless integration with Gmail.
 
 
-## 🚀 Features
+## Features
 
 - ✉️ Generate contextual replies for incoming emails
 - ⚙️ React frontend with dynamic UI
@@ -12,14 +12,14 @@ Initially built as a standalone web app, the project is also being developed int
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - **Frontend**: React
 - **Backend**: Spring Boot
 - **Extension**: Chrome Extension (locally loadable)
 - **IDE**: IntelliJ IDEA for Spring Boot
   
-## 📦 Folder Structure
+## Folder Structure
 
   email-reply-generator/
 ├── backend/              # Spring Boot backend (Java)
@@ -28,7 +28,7 @@ Initially built as a standalone web app, the project is also being developed int
 
 How to Run the Project
 
-🔹 Backend (Spring Boot)
+- Backend (Spring Boot)
 You can run the Spring Boot application directly in IntelliJ IDEA:
 
 Open the backend folder in IntelliJ.
@@ -39,7 +39,7 @@ Server starts at: http://localhost:8080 (default)
 
 
 
-🔹 Frontend (React)
+- Frontend (React)
 Open a terminal in the frontend folder:
 
 cd frontend
@@ -49,7 +49,7 @@ npm run dev       # Start the development server
 
 
 
-🔹 Chrome Extension (Manual Load)
+- Chrome Extension (Manual Load)
 To test the Gmail integration via Chrome Extension:
 
 Go to chrome://extensions/
@@ -62,5 +62,5 @@ Select the chrome-extension/ folder of this project
 
 Extension will be added to Chrome locally
 
-📝 Refer to official Chrome Extension Docs for more details on local setup.
+NOTE:- Refer to official Chrome Extension Docs for more details on local setup.
 
